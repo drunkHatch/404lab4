@@ -1,0 +1,15 @@
+q2: time version server address
+q3: /: page not found /polls: Hello, world. You're at the polls index.
+q4: version control of database
+q5: Authentication and authorization, polls(choices and questions).
+    admin.site.register(model)
+q6: You're looking at question 38.
+q7: the url might be used in any places, the hardcoded url is relative path is may not be reliable
+q8: generic views of Django is a kind of built-in view templates.
+    The benefits of using it is saving time on coding regular pages.
+    When we only have few requirements for the display of the view, we could use the view,
+    such as the admin page of a website. Admins do not need a beautiful page. It doesn't mean
+    anything to them.
+    But when we need to make a creative view with tons of user requirements, generic views
+    are not enough. It would be better to code the view from scratch to make it
+    perfectly fits our needs.
